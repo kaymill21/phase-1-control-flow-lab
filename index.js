@@ -1,5 +1,8 @@
 function scuberGreetingForFeet(){
-  // Write your code here!
+ if  (ride <= 400) {
+  scuberGreetingForFeet = 'free sample ride';
+ }
+ const ride = 199
 }
 
 function ternaryCheckCity(){
